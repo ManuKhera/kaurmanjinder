@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-13T18:26:41Z" name="Suite" finished-at="2021-03-13T18:26:41Z" duration-ms="39">
+    <groups>
+    </groups>
+    <test started-at="2021-03-13T18:26:41Z" name="Test" finished-at="2021-03-13T18:26:41Z" duration-ms="39">
+      <class name="TestNg.Framework.payment">
+        <test-method signature="clientpayment()[pri:0, instance:TestNg.Framework.payment@1d2adfbe]" started-at="2021-03-13T10:26:41Z" name="clientpayment" finished-at="2021-03-13T10:26:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clientpayment -->
+        <test-method signature="studentpayment()[pri:0, instance:TestNg.Framework.payment@1d2adfbe]" started-at="2021-03-13T10:26:41Z" name="studentpayment" finished-at="2021-03-13T10:26:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentpayment -->
+      </class> <!-- TestNg.Framework.payment -->
+      <class name="TestNg.Framework.basicLogin">
+        <test-method is-config="true" signature="positiveTest()[pri:0, instance:TestNg.Framework.basicLogin@16d04d3d]" started-at="2021-03-13T10:26:41Z" name="positiveTest" finished-at="2021-03-13T10:26:41Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveTest -->
+        <test-method signature="SuperLoginTest()[pri:0, instance:TestNg.Framework.basicLogin@16d04d3d]" started-at="2021-03-13T10:26:41Z" name="SuperLoginTest" finished-at="2021-03-13T10:26:41Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuperLoginTest -->
+        <test-method signature="negativeTest()[pri:0, instance:TestNg.Framework.basicLogin@16d04d3d]" started-at="2021-03-13T10:26:41Z" name="negativeTest" finished-at="2021-03-13T10:26:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeTest -->
+      </class> <!-- TestNg.Framework.basicLogin -->
+      <class name="TestNg.Framework.Registration">
+        <test-method signature="Corporationregistratiobn()[pri:0, instance:TestNg.Framework.Registration@49ec71f8]" started-at="2021-03-13T10:26:41Z" name="Corporationregistratiobn" finished-at="2021-03-13T10:26:41Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Corporationregistratiobn -->
+        <test-method signature="studentregistratiobn()[pri:0, instance:TestNg.Framework.Registration@49ec71f8]" started-at="2021-03-13T10:26:41Z" name="studentregistratiobn" finished-at="2021-03-13T10:26:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studentregistratiobn -->
+      </class> <!-- TestNg.Framework.Registration -->
+      <class name="TestNg.Framework.scheduals">
+        <test-method signature="TeacherSchedual()[pri:0, instance:TestNg.Framework.scheduals@36902638]" started-at="2021-03-13T10:26:41Z" name="TeacherSchedual" finished-at="2021-03-13T10:26:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeacherSchedual -->
+        <test-method signature="clientSchedual()[pri:0, instance:TestNg.Framework.scheduals@36902638]" started-at="2021-03-13T10:26:41Z" name="clientSchedual" finished-at="2021-03-13T10:26:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clientSchedual -->
+      </class> <!-- TestNg.Framework.scheduals -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
